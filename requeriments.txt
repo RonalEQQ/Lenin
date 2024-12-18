@@ -1,3 +1,2 @@
 streamlit
-linprog
 scipy
